@@ -56,7 +56,7 @@ Spectrum развивается. В программу будут регуляр
 
 ## 📬 Связь
 
-Автор: mrsemkaz. Telegram: @mrsemkaz · Discord: mrsemkaz · Gmail: semka007129@gmail.com
+Автор: mrsemkaz. Telegram: @mrsemkaz · Discord: mrsemkaz · Почта: semka007129@gmail.com
 
 ## ❤️ Поддержать разработчика
 
