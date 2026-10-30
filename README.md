@@ -1,3 +1,11 @@
+**Актуальная версия: 1.4.3** 
+
+[⬇️ Скачать последнюю версию Spectrum](https://github.com/semka007129-usex/Spectrum/releases/latest)
+
+**Новые версии и обновления программы публикуются на странице** [GitHub Releases](https://github.com/semka007129-usex/Spectrum/releases).
+
+**Spectrum распространяется на условиях авторской лицензии. Ознакомиться с полными условиями можно в файле** [LICENSE.txt](LICENSE.txt).
+
 ## 🌈 Spectrum
 
 **Учись ярко. Узнавай новое каждый день.**
@@ -62,4 +70,20 @@ Spectrum развивается. В программу будут регуляр
 
 Если вам нравится Spectrum, вы можете поддержать его развитие:
 
-[❤️ Поддержать на Boosty](https://boosty.to/mrsemkaz)
+## 🚀 Скачать Spectrum
+
+**Актуальная версия: 1.4.3**
+
+[⬇️ Скачать последнюю версию Spectrum](https://github.com/semka007129-usex/Spectrum/releases/latest)
+
+Новые версии и обновления программы публикуются на странице [GitHub Releases](https://github.com/semka007129-usex/Spectrum/releases).
+
+## 📄 Лицензия
+
+Spectrum распространяется на условиях авторской лицензии. Ознакомиться с полными условиями можно в файле [LICENSE.txt](LICENSE.txt).
+
+## 💖 Поддержать разработку
+
+Если вам нравится Spectrum и вы хотите поддержать дальнейшую разработку программы, это можно сделать на Boosty:
+
+[Поддержать Spectrum на Boosty](https://boosty.to/mrsemkaz)
