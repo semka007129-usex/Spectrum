@@ -64,10 +64,13 @@
 
 ## 📬 Связь
 
-**Автор:** mrsemkaz. **Telegram:** @mrsemkaz · **Discord:** mrsemkaz · **Почта:** semka007129@gmail.com
+**Автор:** Semka Z. **Telegram:** @mrsemkaz · **Discord:** mrsemkaz · **Почта:** semka007129@gmail.com
 
 ## ❤️ Поддержать разработчика
 
 Если вам нравится Spectrum, вы можете поддержать его развитие:
 
 [Поддержать Spectrum на Boosty](https://boosty.to/mrsemkaz)
+
+(Поддержать mrsemkaz напрямую](https://pay.cloudtips.ru/p/22fc577e
+CloudTips)
