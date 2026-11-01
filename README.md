@@ -64,7 +64,7 @@
 
 ## 📬 Связь
 
-**Автор:** Semka Z. **Telegram:** @mrsemkaz · **Discord:** mrsemkaz · **Почта:** semka007129@gmail.com
+**Автор/разработчик:** Semka Z. **Telegram:** @mrsemkaz · **Discord:** mrsemkaz · **Почта:** semka007129@gmail.com
 
 ## ❤️ Поддержать разработчика
 
@@ -72,4 +72,4 @@
 
 [Поддержать Spectrum на Boosty](https://boosty.to/mrsemkaz)
 
-(Поддержать mrsemkaz напрямую](https://pay.cloudtips.ru/p/22fc577e)
+[Поддержать разработчика напрямую](https://pay.cloudtips.ru/p/22fc577e)
