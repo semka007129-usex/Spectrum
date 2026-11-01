@@ -72,5 +72,4 @@
 
 [Поддержать Spectrum на Boosty](https://boosty.to/mrsemkaz)
 
-(Поддержать mrsemkaz напрямую](https://pay.cloudtips.ru/p/22fc577e
-CloudTips)
+(Поддержать mrsemkaz напрямую](https://pay.cloudtips.ru/p/22fc577e)
