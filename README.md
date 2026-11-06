@@ -1,4 +1,4 @@
-**Актуальная версия: 1.4.4** 
+**Актуальная версия: 1.5.0** 
 
 [⬇️ Скачать последнюю версию Spectrum](https://github.com/semka007129-usex/Spectrum/releases/latest)
 
