@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Снимок экрана (357)" src="https://github.com/user-attachments/assets/24c471e4-89a0-43a8-96ba-c850c358e00a" />
+
 **Актуальная версия: 1.5.0** 
 
 [⬇️ Скачать последнюю версию Spectrum](https://github.com/semka007129-usex/Spectrum/releases/latest)
@@ -31,6 +33,10 @@
 • **Ваш прогресс сохраняется.** Видно, что уже пройдено, и можно возвращаться к урокам в любое время.
 
 • **Красивый и удобный интерфейс.** Спокойный дизайн без лишнего, всё внимание на обучении.
+
+<img width="560" height="420" alt="image-1793435097203" src="https://github.com/user-attachments/assets/56292657-7a80-492a-9235-559cee3da596" />
+<img width="640" height="393" alt="image-1793468742995" src="https://github.com/user-attachments/assets/27f503cf-379f-4304-90e6-f0747dea4a21" />
+<img width="800" height="491" alt="image-1793468791466" src="https://github.com/user-attachments/assets/20496813-1b37-4a62-865d-e3281ddcb730" />
 
 ## 💻 Установка
 
