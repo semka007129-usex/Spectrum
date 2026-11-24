@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="Снимок экрана (357)" src="https://github.com/user-attachments/assets/24c471e4-89a0-43a8-96ba-c850c358e00a" />
 
-**Актуальная версия: 1.6.0** 
+**Актуальная версия: 1.7.0** 
 
 [⬇️ Скачать последнюю версию Spectrum](https://github.com/semka007129-usex/Spectrum/releases/latest)
 
